@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+/* Common Style in website */
+body{
+    font-family: 'Abyssinica SIL', serif;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+    border: none;
+}
+/* Style header Area */
+.header{
+    background-color: #E554731A;
+    padding: 100px 100px 0 100px; 
+    
+    
+    
+    
+}
+.header-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.header-content{
+    
+}
+.header-title{
+    color: #272727;
+    font-size: 60px;
+    font-weight: 800;
+    margin-bottom: 20px;
+    
+}
+.header-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 20px;
+   
+}
+.header-photo{
+    width: 500px;
+    height: 564px;
+    
+    
+    
+   
+} 
+.btn{
+    
+}
+/* Style Feature Section 
+.feature-container{
+    margin-top: 178px;
+}
+.feature-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 5px;
+}
+.feature-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.feature-content-bg-1{
+    background-color: #A7216226;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    
+}
+.feature-content-bg0{
+
+}
+.feature-photo2{
+
+}
+.feature-photo{
+    width: 200px;
+    height: 190px;
+    padding: 110px 78px 0 35px; 
+}
+*/
+
+
