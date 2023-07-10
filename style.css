@@ -60,9 +60,7 @@ body{
     
    
 } 
-.btn{
-    
-}
+
 /* Style Feature Section */
 .feature-content{
     display: flex;
@@ -106,6 +104,38 @@ body{
     height: 190px;
     padding: 110px 78px 0 35px; 
 }
-
+/* Hot deal section style */
+.deal-container{
+    margin-top: 128px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 100px;
+    height: 180px;
+}
+.deal-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.off{
+   color:#E55473; 
+}
+.deal-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+.deal-photo{
+    width: 270px;
+    height: 300px;
+}
+.btn{
+    text-align: center;
+}
 
 
