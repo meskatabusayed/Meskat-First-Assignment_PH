@@ -210,6 +210,16 @@ body{
     align-items: center;
     
 }
+/* own Create section */
+.own-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #E55473;
+    margin: 128px;
+    padding: 200px;
+}
+
 /* Footer */
 footer{
     height: 449px;
