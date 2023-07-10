@@ -104,6 +104,9 @@ body{
     height: 190px;
     padding: 110px 78px 0 35px; 
 }
+.pink{
+    margin-top: 20px;
+}
 /* Hot deal section style */
 .deal-container{
     margin-top: 128px;
@@ -136,6 +139,42 @@ body{
 }
 .btn{
     text-align: center;
+}
+/* Social Section style */
+.social-container{
+    margin-top: 128px;
+}
+.social-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 5px;
+}
+.social-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 20px;
+     
+}
+.social-content{
+    display: flex;
+    justify-content: center;
+    max-width: 1440px;
+    
+}
+.flower-photo{
+    width: 242px;
+    height: 296px;
+    margin-right: 20px;
+    
+}
+/* Subscribe Section Style */
+.subscribe-container{
+    margin-top: 128px;
+    
 }
 
 
