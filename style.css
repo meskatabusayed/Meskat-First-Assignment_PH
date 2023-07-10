@@ -19,7 +19,9 @@ body{
     font-weight: 700;
     padding: 20px 43px;
     border: none;
+    
 }
+
 /* Style header Area */
 .header{
     background-color: #E554731A;
@@ -174,12 +176,13 @@ body{
 /* Subscribe Section Style */
 .subscribe-container{
     
-    margin-top: 128px; 
+    margin: 128px; 
     background-image: url("./images/Rectangle\ 9.png");
     background-repeat: no-repeat;
     background-position: center; 
     border-radius: 8px;
     padding: 200px;
+    
 }
 .subscribe-title{
     color: #272727;
@@ -197,9 +200,10 @@ body{
 }
 
 .subscribe-form-content ,input{
-    width: 400px;
-    padding: 20px 43px;
+    width: 300px;
+    padding: 20px 20px;
 }
+
 .subscribe-form-container{
     display: flex;
     justify-content: space-around;
