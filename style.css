@@ -202,12 +202,15 @@ body{
 .subscribe-form-content ,input{
     width: 300px;
     padding: 20px 20px;
+    border: none;
+    border-radius: 8px;
 }
 
 .subscribe-form-container{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    
     
 }
 /* own Create section */
